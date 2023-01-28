@@ -16,7 +16,7 @@
         @foreach ($kopi as $key => $item)
          <tr>
             <th scope="row">{{$key + 1}}</th>
-            <td>{{$item->Name}}</td>
+            <td>{{$item->Name }}</td>
             <td>{{$item->price}}</td>
              <td>{{$item->brand}}</td>
              <td>

@@ -14,7 +14,7 @@
     <!-- Custom fonts for this template-->
     @include('backend.partial.link')
 
-</head>
+</head> 
 
 <body class="bg-gradient-primary">
 
