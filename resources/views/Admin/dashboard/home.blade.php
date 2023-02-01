@@ -1,7 +1,8 @@
-@extends('layouts.app')
+@extends('backend.master')
 
 @section('content')
-<div class="container">
+<h1>ini adalah dashboard</h1>
+<!-- <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -19,5 +20,5 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 @endsection
